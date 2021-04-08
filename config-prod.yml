@@ -1,2 +1,2 @@
-hello:
-  world: 3346
+server:
+  port: 3346
