@@ -1,2 +1,2 @@
-1:ss
-version:30
+server:
+  port: 3346
